@@ -1,4 +1,4 @@
-# Nextjs + Base Web + TypeScript
+# Nextjs + Base Web + TypeScript + React Three Fiber
 
 This is an opinionated scaffold of Next.js and Base Web. It comes with:
 
@@ -9,3 +9,5 @@ This is an opinionated scaffold of Next.js and Base Web. It comes with:
 - Eslint
 - Prettier
 - TypeScript
+- Three
+- React Three Fiber
